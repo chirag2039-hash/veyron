@@ -1,0 +1,9 @@
+{
+  "name":"veyron-networks-portal",
+  "version":"2.0.0",
+  "private":true,
+  "description":"Veyron Networks customer recharge and admin portal with Xceednet, Cashfree, and VyaparGateway integration",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"dotenv":"^16.4.7"}
+}
